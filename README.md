@@ -1,22 +1,21 @@
-## Project Name:  Seminole Movie Connection Application using TMDB API
+### Project Name:  Seminole Movie Connection Application using TMDB API
 
 ### Course Title:
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabby Dunlap
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I made a page that displays information about a movie when the movie name is searched.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gpd17.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson, I learned about AJAX. AJAX stands for Asynchronous JavaScript and XML. It allows programmers to load data from the server without a browser page refresh. It makes XML/JSON, HTML, CSS, and JavaScript run more efficient. 
+2. In this lesson, I also learned about JSON. It stands for JavaScript Object Notation and XML. It is a  lightweight text-based open standard designed for humanreadable data interchange. 
+3. Another thing I learned in this lesson was an API key. It is a code passed in by computer programs calling an API to identify the calling program, its developer, or its user to the Web site. 
